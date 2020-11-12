@@ -4,3 +4,7 @@
 https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/eip
 
 ## The EBS volume with 100G should be added to centos machine and it has to be named as /dev/sdi
+
+
+# How to attach Role to Instance 
+    https://medium.com/@devopslearning/aws-iam-ec2-instance-role-using-terraform-fa2b21488536

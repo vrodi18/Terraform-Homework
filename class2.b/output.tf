@@ -17,7 +17,3 @@ output "Policy Name" {
 output "Json Policy" {
   value = "${aws_iam_role_policy.policy.policy}"
 }
-
-output "EBS-Size" {
-  value = "${aws_instance.Centos6.ebs_block_device.2514424016.volume_size}"
-}
